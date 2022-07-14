@@ -1,8 +1,14 @@
-# 🏗 JuiceBox Treasury Managment Tools
+# 🏗 JuiceBox Treasury Management Tools
 
-🧪 Quickly experiment with Solidity using a frontend that adapts to your smart contract:
+🧪 [Demo Site: ](https://juiceboxtools.surge.sh)
+🧪 Add an Easy to Use JuiceBox Funding Button on Your Project Page:
+
+![fundguidl](https://user-images.githubusercontent.com/75052782/179090461-850a3002-644e-4778-99ac-08ec97fa1fbb.png)
 
 
+🧪 Add Overflow Distribution Funding  on Your Project Admin Page:
+
+![fundstream](https://user-images.githubusercontent.com/75052782/179090582-734c7ddb-63e8-460d-9f6f-4ba1d5ac8bb6.png)
 
 
 # 🏄‍♂️ Quick Start
@@ -33,21 +39,17 @@ yarn start
 
 📱 Open http://localhost:3000 to see the app
 
+
+
+
+
+
+
+
+
 # 📚 Documentation
 
 Documentation, tutorials, challenges, and many more resources, visit: [docs.scaffoldeth.io](https://docs.scaffoldeth.io)
-
-
-# 🍦 Other Flavors
-- [scaffold-eth-typescript](https://github.com/scaffold-eth/scaffold-eth-typescript)
-- [scaffold-eth-tailwind](https://github.com/stevenpslade/scaffold-eth-tailwind)
-- [scaffold-nextjs](https://github.com/scaffold-eth/scaffold-eth/tree/scaffold-nextjs)
-- [scaffold-chakra](https://github.com/scaffold-eth/scaffold-eth/tree/chakra-ui)
-- [eth-hooks](https://github.com/scaffold-eth/eth-hooks)
-- [eth-components](https://github.com/scaffold-eth/eth-components)
-- [scaffold-eth-expo](https://github.com/scaffold-eth/scaffold-eth-expo)
-- [scaffold-eth-truffle](https://github.com/trufflesuite/scaffold-eth)
-
 
 # 🛠 Buidl
 
