@@ -487,7 +487,7 @@ export default function FundBuilders2({
                 } ETH </Card>
                  <br></br><br></br>
             <Card fontSize="20" color={"orange"}>Available Overflow: {
-            availableOverflow
+            parseFloat(availableOverflow).toFixed(3)
             
                 } ETH </Card>
                  <br></br><br></br>
